@@ -5,7 +5,7 @@ class Node {
     this.right = null;
   }
 }
-
+let a
 module.exports = {
   Node
 };
